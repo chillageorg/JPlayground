@@ -18,7 +18,7 @@ public class KlasseAB {
         einA.setName("Vogiatzis");
         einA.setVorname("Georg");
         einB.setAdresse("Wetzikon");
-        System.out.println("Hallo " + einA.getVorname() + " " + einA.getName() + " aus " + einB.getAdresse());
+        System.out.println("Hallo " + einA.getVorname() + " " + einA.getName() + " von " + einB.getAdresse());
 
         if (einB instanceof KlasseA) {
             System.out.println("true");
