@@ -15,8 +15,8 @@ public class KlasseAB {
         KlasseA einA = new KlasseA();
         KlasseB einB = new KlasseB();
 
-        einA.setName("Doe");
-        einA.setVorname("John");
+        einA.setName("Genius");
+        einA.setVorname("George");
         einB.setAdresse("Somewhere");
         System.out.println("Hallo " + einA.getVorname() + " " + einA.getName() + " aus " + einB.getAdresse());
 
