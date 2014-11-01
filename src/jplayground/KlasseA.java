@@ -7,7 +7,7 @@ package jplayground;
 
 /**
  *
- * @author georgvogiatzis
+ * @author JhonDoe
  */
 public class KlasseA {
   private String name;  

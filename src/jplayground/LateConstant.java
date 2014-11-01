@@ -7,7 +7,7 @@ package jplayground;
 
 /**
  *
- * @author georgvogiatzis
+ * @author johndoe
  */
 public class LateConstant
 {
